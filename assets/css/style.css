@@ -11,7 +11,9 @@
 :root {
   scroll-behavior: smooth;
 }
-
+.bhi{
+  color: yellow;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
